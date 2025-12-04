@@ -20,6 +20,12 @@ screenshots/
 downloads/
 cache/
 
+# Essential mod data (can be large, user-specific)
+essential/
+
+# Schematics (user-specific builds)
+schematics/
+
 # Usercache / runtime data
 usercache.json
 data/fabricDefaultResourcePacks.dat
@@ -40,12 +46,16 @@ servers.essential.dat
 # User settings (never sync)
 options.txt
 optionsof.txt
+ops.json
 realms_persistence.json
 
 # Xaero waypoint local data
 xaero/
 XaeroWaypoints_BACKUP*/
 command_history.txt
+
+# Litematica user-specific configs
+config/litematica/
 
 # OS junk
 .DS_Store
