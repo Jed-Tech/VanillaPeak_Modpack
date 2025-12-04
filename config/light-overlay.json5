@@ -1,0 +1,14 @@
+{
+	lightLevelThreshold: 1,
+	scanRadius: 20,
+	scanRadiusY: 5,
+	rendererType: "CROSS",
+	hideGreen: true,
+	hideTransparent: true,
+	hideWater: true,
+	showSpecialSpawningConditionBlocks: false,
+	showWhenPaused: true,
+	cylinderMode: false,
+	validColor: -16711936,
+	invalidColor: -65536
+}

@@ -1,0 +1,21 @@
++-------------------+-------+---------+-----------+
+| Area Analysis for selection 'Unnamed'           |
++-------------------+-------+---------+-----------+
+| Item              | Total | Missing | Available |
++-------------------+-------+---------+-----------+
+| Scaffolding       |  2838 |       0 |       160 |
+| Smooth Stone      |  1356 |       0 |         0 |
+| Smooth Stone Slab |  1210 |       0 |         0 |
+| Hopper            |    64 |       0 |         0 |
+| Oak Trapdoor      |    36 |       0 |         1 |
+| White Carpet      |    34 |       0 |         1 |
+| Stone Brick Slab  |     8 |       0 |         0 |
+| Stone Brick Wall  |     8 |       0 |         0 |
+| Chest             |     4 |       0 |        28 |
+| Lava Bucket       |     4 |       0 |         0 |
+| Activator Rail    |     1 |       0 |         0 |
+| Lever             |     1 |       0 |         0 |
+| Rail              |     1 |       0 |         0 |
++-------------------+-------+---------+-----------+
+| Item              | Total | Missing | Available |
++-------------------+-------+---------+-----------+

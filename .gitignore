@@ -1,0 +1,62 @@
+# Logs
+logs/
+*.log
+*.log.gz
+
+# Crash reports
+crash-reports/
+
+# Debug files
+debug/
+debug-profile.json
+
+# World saves (never track player saves)
+saves/
+
+# Screenshots
+screenshots/
+
+# ATLauncher specific cache
+downloads/
+cache/
+
+# Usercache / runtime data
+usercache.json
+data/fabricDefaultResourcePacks.dat
+
+# Server lists (user-specific)
+servers.dat
+servers.dat_old
+servers.essential.dat
+
+# Modpack downloads (IGNORE in root, ALLOW in /releases/)
+*.mrpack
+!/releases/*.mrpack
+
+# Fabric loader generated folders
+.fabric/
+.bobby/
+
+# User settings (never sync)
+options.txt
+optionsof.txt
+realms_persistence.json
+
+# Xaero waypoint local data
+xaero/
+XaeroWaypoints_BACKUP*/
+command_history.txt
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE junk
+.idea/
+.vscode/
+*.iml
+
+# Temporary files
+*.tmp
+*.bak
+*~

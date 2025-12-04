@@ -1,0 +1,7 @@
+{
+  "lightLevelThreshold": 1,
+  "scanRadius": 32,
+  "hideGreenCrosses": true,
+  "hideTransparentBlockCrosses": true,
+  "hideWaterCrosses": true
+}
