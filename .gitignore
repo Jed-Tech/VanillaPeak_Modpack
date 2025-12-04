@@ -57,6 +57,9 @@ command_history.txt
 # Litematica user-specific configs
 config/litematica/
 
+# Voice chat user-specific configs
+config/voicechat/
+
 # OS junk
 .DS_Store
 Thumbs.db
