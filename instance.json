@@ -1,7 +1,7 @@
 {
   "uuid": "4a929133-f2e4-4b7a-9e36-f9214bbd47c3",
   "launcher": {
-    "name": "Lake Mountain Pack",
+    "name": "Vanilla Peak ModPack",
     "pack": "Minecraft",
     "description": "A modpack for improving the vanilla experience while remaining compatible with vanilla servers.",
     "packId": 0,
@@ -9734,10 +9734,10 @@
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1764809114304,
-    "numPlays": 375,
+    "lastPlayed": 1764837430378,
+    "numPlays": 376,
     "lastExportName": "Vanilla Peaks Modpack",
-    "lastExportVersion": "1.21.10_6",
+    "lastExportVersion": "1.21.10-7",
     "lastExportAuthor": "JedTech",
     "lastExportSaveTo": "C:\\Users\\jedde\\AppData\\Roaming\\ATLauncher\\instances\\LakeMountainPack"
   },
